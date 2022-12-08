@@ -1,0 +1,10 @@
+1. C++基础
+https://www.runoob.com/cplusplus/cpp-tutorial.html
+
+2. 数组、队列，堆栈、二叉树，排序查找算法，用c++实现
+看懂原理，自己实现，网上代码可以参考，但是不能照抄
+
+3. VS C++开发
+A. OpenCv
+B. Dll
+
